@@ -1,7 +1,7 @@
-<img src="/Images/login.png" width='700' height='400'/><br/>
-<img src="/Images/main1.png" width='700' height='400'/><br/>
-<img src="/Images/main2.png" width='700' height='400'/><br/>
-<img src="/Images/customer.png" width='700' height='400'/>
+<img src="/Images/login.png" width='900' height='500'/><br/>
+<img src="/Images/main1.png" width='900' height='500'/><br/>
+<img src="/Images/main2.png" width='900' height='500'/><br/>
+<img src="/Images/customer.png" width='900' height='500'/>
 
 
 
