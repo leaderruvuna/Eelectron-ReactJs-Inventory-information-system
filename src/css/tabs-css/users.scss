@@ -1,0 +1,66 @@
+$primary-color:#00cc66;
+$second-color:black;
+.user-main{
+	background: white;
+    width: 1132px;
+    height: 630px;
+    margin-left: 230px;
+    margin-top: 25px;
+    box-shadow: -0.5px 0px 0px 0px #aaaaaa;
+}
+
+.size{
+    width:150px;
+}
+.user{ 	
+		.nav-link {
+			transition: border-color .125s ease-in;
+			white-space: nowrap;
+			color:$second-color;
+			
+			&:hover {
+				
+			}
+			
+		}
+		
+		.nav-link.active {
+			
+			color:$primary-color;
+			&:hover {
+				
+				
+			}
+		}
+	
+}
+.form-container {
+	position: relative;
+	background: white;
+	top:25px;
+	left: -5px;
+	width:1100px;
+	padding-left:25px;
+	padding-top:10px;
+}
+.form-container label{
+	font-weight:bold;
+	font-size: 15px;
+	//font-family: Georgia, Times, 'Times New Roman', serif;
+}
+fieldset.scheduler-border {
+    border: 1px groove #ddd !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000;
+            box-shadow:  0px 0px 0px 0px #000;
+}
+
+    legend.scheduler-border {
+        font-size: 1.2em !important;
+        font-weight: bold !important;
+        text-align: left !important;
+        width:auto;
+        padding:0 10px;
+        border-bottom:none;
+    }

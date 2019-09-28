@@ -1,0 +1,40 @@
+.dash-main{
+    background: white;
+    width: 1132px;
+    height: 630px;
+    margin-left: 230px;
+    margin-top: 25px;
+    box-shadow: -0.5px 0px 0px 0px #aaaaaa;
+}
+.dashDiv{
+    width: 250px;
+    height: 150px;
+    background: rgb(207, 141, 141);
+    position: relative;
+    margin-left:5px;
+    align-items: center;
+    padding-top: 15px;
+    cursor: pointer;
+}
+.green{
+   background: rgb(63, 163, 63);
+}
+.blue{
+    background: rgb(15, 223, 223);
+
+}
+.yellow{
+    background: rgb(216, 202, 15);
+
+}
+.orange{
+    background: rgb(224, 33, 215);
+}
+.colorwhite{
+    color: white;
+    font-weight: bold;
+   
+}
+.iconsize{
+    font-size: 30px;
+}

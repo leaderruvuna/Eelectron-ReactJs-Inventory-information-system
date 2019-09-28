@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS "users"  (
+	 "uid" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	 "firstname" TEXT(255,0) NOT NULL,
+	 "lastname" TEXT(255,0) NOT NULL,
+     "password" TEXT (255,0) NOT NULL
+);

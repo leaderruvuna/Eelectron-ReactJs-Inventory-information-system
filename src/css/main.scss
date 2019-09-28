@@ -1,0 +1,103 @@
+$padding-base: 45px;
+$paddin-right:45px;
+$color-body: rgb(253, 255, 253);
+$color-border: #00cc66;
+$color-link: #090a0a;
+$border-radius: .25rem;
+$primary-color:#00cc66;
+
+.nav-tabs {
+	&--vertical {
+		border-bottom: none;
+		display: block;
+		flex-flow: column nowrap;
+		min-width:200px;
+		position: fixed;
+		left: -45px;
+		top:-55px;
+		background: white;
+		height: 720px;
+	    z-index: 1;
+		
+	}
+	
+	&--left {
+		margin:$paddin-right $padding-base;
+		
+		.nav-item + .nav-item {
+			margin-top: .25rem;
+		}
+		
+		.nav-link {
+			transition: border-color .125s ease-in;
+			white-space: nowrap;
+			color: $color-link;
+			
+			&:hover {
+				background-color: $color-body;
+				border-color: transparent;
+			}
+			
+		}
+		
+		.nav-link.active {
+			border-bottom-color: $color-border;
+			border-right-color: $color-body;
+			border-bottom-left-radius: $border-radius;
+			border-top-right-radius: 0;
+			margin-right: -1px;
+			background: $primary-color;
+			color:white;
+			&:hover {
+				background-color:  $primary-color;
+				
+			}
+		}
+	}
+}
+.head{
+	margin-left: 10px
+}
+.title{
+	margin-left: 220px;
+	
+}
+.topDiv{
+	position: fixed;;
+	background: rgb(255, 255, 255);
+	width: 1300px;
+	margin-left: 200px;
+	margin-top:-7px;
+	height: 50px;  
+	z-index: 1;
+}
+.topDiv button{
+	position: absolute;
+	left: 1050px;
+	top:5px;
+}
+
+.username-label{
+	font-size: 18px;
+	font-weight: bold;
+	position: absolute;
+	left:900px;
+	top:8px;
+}
+.usertitle-label{
+	font-size: 25px;
+	font-weight: bold;
+	position: absolute;
+	left:30px;
+	top:8px;
+}
+.input-description{
+	height: 90px;
+}
+.tab-li{
+	width: 170px;
+}
+/*.inner-tab{
+	width: 150px;
+}
+*/

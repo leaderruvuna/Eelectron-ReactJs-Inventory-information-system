@@ -1,0 +1,101 @@
+$primary-color:#00cc66;
+$second-color:black;
+*{
+	font-family: Courier,'Segoe UI', Tahoma, Verdana, sans-serif,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 14.5px;
+	
+}
+td{
+	width:100px;
+}
+.group-main{
+    background: white;
+    width: 1132px;
+    height: 630px;
+    margin-left: 230px;
+    margin-top: 25px;
+    box-shadow: -0.5px 0px 0px 0px #aaaaaa;
+}
+
+.size{
+    width:150px;
+}
+.group{
+        	
+		.nav-link {
+			transition: border-color .125s ease-in;
+			white-space: nowrap;
+			color:$second-color;
+			
+			&:hover {
+				
+			}
+			
+		}
+		
+		.nav-link.active {
+			
+			color:$primary-color;
+			&:hover {
+				
+				
+			}
+		}
+	
+}
+
+.group_name{
+	font-size: 15px;
+	font-weight: bold;
+	position: relative;
+	left:15px;
+	top:15px;
+
+
+}
+
+.group-select{
+	position: relative;
+	left:23px;
+	top:15px;
+}
+.btn-padding{
+	margin-left: 50px;
+	margin-top:10px;
+	color:white;
+	
+}
+
+.group-button{
+	position: relative;
+	left: 50px;
+	top:30px;
+	box-shadow: 1px 0px 0px 1px blue;
+	width: 150px;
+	display: block;
+	text-shadow: 1px 0 green,
+               
+}
+.btn-edit-del{
+	margin-left:15px;
+	width:25px;
+	height: 25px;
+	display: inline-flex;
+    justify-content: center;
+	
+}
+
+.table-add-group{
+	align-content: center;
+	width:1070px;
+	position: relative;
+	top:50px;
+	left: 20px;
+
+}
+.table-manage-group{
+	width:1000px;
+	position: relative;
+	top:10px;
+	left: 15px;
+}

@@ -1,0 +1,64 @@
+{
+  "name": "my-app2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/app": "^0.4.15",
+    "@firebase/auth": "^0.11.8",
+    "@firebase/firestore": "^1.5.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@material-ui/core": "^4.4.2",
+    "axios": "0.19.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-select": "^1.13.10",
+    "bootstrap-toggle": "^2.2.2",
+    "cheerio": "^0.22.0",
+    "concurrently": "^4.1.1",
+    "electron": "^5.0.7",
+    "electron-builder": "^21.1.1",
+    "electron-is-dev": "^1.1.0",
+    "html-loader": "^0.5.5",
+    "jquery": "^3.2.1",
+    "node-sass": "^4.12.0",
+    "popper.js": "^1.14.7",
+    "react": "^16.8.6",
+    "react-datepicker": "^2.9.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-table": "^6.10.3",
+    "react-toasts": "^3.0.3",
+    "sql.js": "^0.4.0",
+    "tether": "^1.4.0",
+    "wait-on": "^3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron-dev": "concurrently \" npm run start\" \"wait-on http://localhost:3000 && electron .\""
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "main": "public/main.js",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0"
+  }
+}
