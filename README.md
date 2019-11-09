@@ -1,7 +1,7 @@
 
-<img src="./Images/login.png" width="1500" height="700">  
-<img src="./Images/main1.png" width="1500" height="700"> 
-<img src="./Images/main2.png" width="1500" height="700"> 
+<img src="./Images/login.png" width="1500" height="500">  
+<img src="./Images/main1.png" width="1500" height="500"> 
+<img src="./Images/main2.png" width="1500" height="500"> 
 
 
 
