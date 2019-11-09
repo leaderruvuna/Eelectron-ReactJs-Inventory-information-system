@@ -1,7 +1,7 @@
 import React from 'react';
 import {BrowserRouter,Route,Switch} from 'react-router-dom';
-import signLogin from './screen/signLogin';
-import Mainscreen from './screen/Mainscreen';
+import signLogin from './components/screen/signLogin';
+import Mainscreen from './components/screen/Mainscreen';
 
 
 import App from './App';

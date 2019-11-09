@@ -1,16 +1,3 @@
-EMAIL: ruvunaraymond@gmail.com
-
-
-<img src="/Images/login.png" width='900' height='500'/><br/>
-<img src="/Images/main1.png" width='900' height='500'/><br/>
-<img src="/Images/main2.png" width='900' height='500'/><br/>
-<img src="/Images/customer.png" width='900' height='500'/>
-
-
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -79,9 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-
-
-
-
-
