@@ -34,14 +34,17 @@
     "react-toasts": "^3.0.3",
     "sql.js": "^0.4.0",
     "tether": "^1.4.0",
-    "wait-on": "^3.3.0"
+    "wait-on": "^3.3.0",
+    "coveralls":"3.0.9",
+    "jest":"24.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "electron-dev": "concurrently \" npm run start\" \"wait-on http://localhost:3000 && electron .\""
+    "electron-dev": "concurrently \" npm run start\" \"wait-on http://localhost:3000 && electron .\"",
+    "test:coveralls":"jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "eslintConfig": {
     "extends": "react-app"
