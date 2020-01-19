@@ -1,20 +1,8 @@
-[![Coverage Status](https://coveralls.io/repos/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system/badge.svg?branch=master)](https://coveralls.io/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system?branch=master)
-
-https://coveralls.io/repos/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system/badge.svg?branch=master(Coverage Status)!:https://coveralls.io/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system?branch=master
-
-{<img src="https://coveralls.io/repos/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system/badge.svg?branch=master" alt="Coverage Status" />}[https://coveralls.io/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system?branch=master]
-
-.. image:: https://coveralls.io/repos/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system/badge.svg?branch=master
-:target: https://coveralls.io/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system?branch=master
-
-
 <a href='https://coveralls.io/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system?branch=master'><img src='https://coveralls.io/repos/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system/badge.svg?branch=master' alt='Coverage Status' /></a>
 
 <img src="./Images/login.png" width="1500" height="500">  
 <img src="./Images/main1.png" width="1500" height="500"> 
-<img src="./Images/main2.png" width="1500" height="500"> 
-
-
+<img src="./Images/main2.png" width="1500" height="500">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

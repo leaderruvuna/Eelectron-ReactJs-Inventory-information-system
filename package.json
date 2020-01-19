@@ -35,8 +35,9 @@
     "sql.js": "^0.4.0",
     "tether": "^1.4.0",
     "wait-on": "^3.3.0",
-    "coveralls":"3.0.9",
-    "jest":"24.9.0"
+    "coveralls": "3.0.9",
+    "jest": "24.9.0",
+    "prettier": "2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -44,7 +45,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "electron-dev": "concurrently \" npm run start\" \"wait-on http://localhost:3000 && electron .\"",
-    "test:coveralls":"jest --coverage --coverageReporters=text-lcov | coveralls"
+    "test:coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls",
+    "prettify": "prettier --write . "
   },
   "eslintConfig": {
     "extends": "react-app"
