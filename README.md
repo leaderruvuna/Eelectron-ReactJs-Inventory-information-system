@@ -1,4 +1,4 @@
-
+[![Coverage Status](https://coveralls.io/repos/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system/badge.svg?branch=master)](https://coveralls.io/github/leaderruvuna/Eelectron-ReactJs-Inventory-information-system?branch=master)
 <img src="./Images/login.png" width="1500" height="500">  
 <img src="./Images/main1.png" width="1500" height="500"> 
 <img src="./Images/main2.png" width="1500" height="500"> 
