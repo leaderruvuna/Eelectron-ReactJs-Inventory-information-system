@@ -18,7 +18,7 @@
     "bootstrap-toggle": "^2.2.2",
     "cheerio": "^0.22.0",
     "concurrently": "^4.1.1",
-    "electron": "^5.0.7",
+    "electron": "^7.2.4",
     "electron-builder": "^21.1.1",
     "electron-is-dev": "^1.1.0",
     "html-loader": "^0.5.5",
