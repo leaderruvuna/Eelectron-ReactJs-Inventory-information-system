@@ -1,5 +1,4 @@
 .App {
-
 }
 
 .App-logo {
@@ -22,22 +21,20 @@
 .App-link {
   color: #61dafb;
 }
-.flex-container{
+.flex-container {
   display: flex;
   align-items: center;
- 
 }
 
-.list-group-item{
-  text-decoration-line:underline;
+.list-group-item {
+  text-decoration-line: underline;
   padding: 20px;
-  background: gray
-  
+  background: gray;
 }
-.thumbnail{
+.thumbnail {
   width: 50px;
   height: 50px;
-  border-radius: 50px
+  border-radius: 50px;
 }
 
 @keyframes App-logo-spin {

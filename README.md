@@ -2,9 +2,7 @@
 
 <img src="./Images/login.png" width="1500" height="500">  
 <img src="./Images/main1.png" width="1500" height="500"> 
-<img src="./Images/main2.png" width="1500" height="500"> 
-
-
+<img src="./Images/main2.png" width="1500" height="500">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
