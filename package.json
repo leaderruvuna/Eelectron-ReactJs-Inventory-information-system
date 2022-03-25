@@ -19,7 +19,7 @@
     "cheerio": "^0.22.0",
     "concurrently": "^4.1.1",
     "coveralls": "3.0.9",
-    "electron": "^11.5.0",
+    "electron": "^13.6.6",
     "electron-builder": "^21.1.1",
     "electron-is-dev": "^1.1.0",
     "html-loader": "^0.5.5",
