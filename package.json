@@ -5,7 +5,7 @@
   "dependencies": {
     "@firebase/app": "^0.6.29",
     "@firebase/auth": "^0.11.8",
-    "@firebase/firestore": "^1.18.0",
+    "@firebase/firestore": "^3.8.0",
     "@fortawesome/fontawesome-free": "^5.11.2",
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
